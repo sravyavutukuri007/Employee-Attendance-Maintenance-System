@@ -23,7 +23,7 @@ import java.sql.ResultSet;
 
 /**
  *
- * @author Minahil
+ * 
  */
 public class dbConnectivity {
 
